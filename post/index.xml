@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alejandra Plazola</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Alejandra Plazola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R and Python</title>
+      <link>/post/2020/12/11/perros/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/11/perros/</guid>
+      <description>R and Python Re.sub, Re.spilt, and count_chars Something interesting that I have learned in python is using the RegEx package in python to replace characters/symbols/letters/etc of strings to another character, then spliting my strings, and creating a function count_chars to count the number of words in a string. I used these in HW 11 and decided to create my own example based off of Christmas since it is that time of year again!</description>
+    </item>
+    
+  </channel>
+</rss>
