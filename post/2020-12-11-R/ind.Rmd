@@ -54,11 +54,8 @@ count_chars(strings2)
 
 Honestly, I struggled with alot with creating functions in python and google was my best friend lol. I think the key thing to remember is having to create a simple equation/filler like the sentence to make sure when doing count and definning my function/constants, it would work because I know I didn't do this correctly the first time! 
 
-Here's a Regex meme:
+Here's a meme:
 
-![](/stor/home/map5667/Website/static/img/r.jpg)   
-
-![Constant meme](/stor/home/map5667/Website/static/img/c.jpg)  
-
+![](https://i.redd.it/jbcndpd8s7941.png) 
 
 
